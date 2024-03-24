@@ -1,4 +1,4 @@
-package ru.chitaigorod;
+package ru.chitaigorod.initialization;
 
 import org.openqa.selenium.WebDriver;
 

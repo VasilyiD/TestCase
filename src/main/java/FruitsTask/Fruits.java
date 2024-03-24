@@ -1,2 +1,4 @@
-package FruitsTask;public class Fruits {
+package FruitsTask;
+
+public abstract class Fruits {
 }

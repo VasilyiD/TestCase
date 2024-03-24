@@ -1,2 +1,4 @@
-package FruitsTask;public class Apple {
+package FruitsTask;
+
+public class Apple extends Fruits {
 }
